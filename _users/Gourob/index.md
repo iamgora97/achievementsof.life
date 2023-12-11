@@ -14,6 +14,7 @@ Interests: ['Coding', 'Travelling', 'Cooking', 'Gardening', 'Photography', 'Side
 - On my birthday, Sudip gave me a Casio Watch as a gift.
 - On Dhanteras, I treated myself to a gold ring and a silver coin featuring two deity.
 - For the first time ever, I splurged $1550 on myself at a salon.
+- Bought two domian, trying to build something  🛠️
 - Attended a friend's wedding in Kolkata. It was a completely different experience.
 
 ## October 2023
@@ -33,7 +34,7 @@ Interests: ['Coding', 'Travelling', 'Cooking', 'Gardening', 'Photography', 'Side
 
 ## August 2023
 - Gave first in-person talk at React Bangalore about new Scroll driven animation API👨‍💻
-- Bought a new domian, trying to build something (again) 🛠️
+
 
 ## July 2023
 - Participated in company's hackathon and built a very cool business intelligence tool on top of langchain and LLMs [Link](https://twitter.com/apoorv_taneja/status/1677365455902867457?s=20)
