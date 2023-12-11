@@ -1,7 +1,9 @@
 ---
 Name: 'Gourob Nandi'
-Twitter: 'https://twitter.com/apoorv_taneja'
+Twitter: 'https://github.com/iamgora97'
 Github: 'https://github.com/plxity'
+Linkedin: 'https://www.linkedin.com/in/gourob-nandi/'
+Instagram: 'https://instagram.com/scorpio_gora97'
 Interests: ['Coding', 'Travelling', 'Cooking', 'Gardening', 'Photography', 'Side Projects']
 ---
 
@@ -12,6 +14,7 @@ Interests: ['Coding', 'Travelling', 'Cooking', 'Gardening', 'Photography', 'Side
 - For my birthday, I gifted myself a mechanical watch from Titan.
 - On my birthday, my dad gave me a Yamaha Aerox as a gift.
 - On my birthday, Sudip gave me a Casio Watch as a gift.
+- I made some upgrades to my washroom and bedroom.
 - On Dhanteras, I treated myself to a gold ring and a silver coin featuring two deity.
 - For the first time ever, I splurged $1550 on myself at a salon.
 - Bought two domian, trying to build something  🛠️
@@ -24,103 +27,65 @@ Interests: ['Coding', 'Travelling', 'Cooking', 'Gardening', 'Photography', 'Side
 - Visited Giagong cafe, recognized as one of the highest cafes in the world, run by the Indian Army.
 - We arrived home safely from Sikkim, and it makes me wonder what might have happened if things hadn't aligned. There was a potential risk of a Glacial Lake Outburst Flood (GLOF) from 
   South Lhonak  Lake in North Sikkim. Because of this, while we were in Gangtok, we chose a longer route to get to NJP station.
+- I gave my mom a microwave, a gas burner, a mixer grinder, and a hand blender as gifts.
+- I treated myself to a bunch of self-care products along with some new clothes.
 - I stayed up till 3 o'clock in the night at the salon for a haircut and came back home around 3:30.
 - Went to Darjeeling for a little more traveling.
 - It was the first time in my 26 years that I wasn't in my hometown for Durga Puja.
-- Meet Sudip('https://twitter.com/sudipkundu999/') after a long Time.
+- Meet Sudip('https://twitter.com/sudipkundu999/') after a long Time. 
+- Gifted myself a Iphone 13 Pro.
+
+
 
 
 ## September 2023
-- 
+- meh month :(
+- Made some new friends.
+- I spent two days in Kolkata with my old friends and some of their acquaintances.
+- - Went to Bolophool for a day trip.
+- I went to Kolkata and then had an awesome trip to Sikkim. Though the main trip started in October.
 
 ## August 2023
-- Gave first in-person talk at React Bangalore about new Scroll driven animation API👨‍💻
+- One of the best month of the year :)
+- I planned a trip to Tajpur and Mandarmani, and it turned out to be a bit average. However, I learned a lot of valuable things during that journey.
+- I spontaneously went to Varanasi, a trip that came out of nowhere, and it turned out to be one of the best trips of my life.
+- Visited the Kashi Vishwanath Temple and dedicated a significant amount of time there. Explored the ghats and enjoyed the food in Varanasi too.
+- I incorporated a second monitor into my desk setup to enhance productivity.
 
 
 ## July 2023
-- Participated in company's hackathon and built a very cool business intelligence tool on top of langchain and LLMs [Link](https://twitter.com/apoorv_taneja/status/1677365455902867457?s=20)
+- meh month :(
+- Stayed awake until 5 o'clock in the morning playing Monopoly.
+- Went on a short ride to attend the engagement of one of my college friends.
+- Went to Bonolota for a day trip.
 
 ## June 2023
-- Attented my first in-person conference (JS Conf 2023)
-- Copped one more sneaker pair (Trinity X 1DER) [Link](https://twitter.com/apoorv_taneja/status/1673723733813641216?s=20)
+- Went to Tajpur for a short trip with friends, enjoyed the peaceful environment, loved the trip, and learned a bit of swimming.
+- Bought an Axor helmet as a self gift.
+- Gifted mom a pair of earrings for her birthday.
+
 
 ## May 2023
-- Built more stuff with framer and started a new [project](https://github.com/plxity/framer-recipes) around it.
-- Played with LLMs and LangChain to build figma to blade convertor. 
+- Went on some casual outing with someone I knew from before but got closer to her this time.
+- Taught a friend how to ride a scooty, and on the first day, I was nervous about sitting at the back.
+- Visited Kolkata to reunite with some of my college buddies, meeting them after a gap of three years.
 
 ## April 2023
-- Travelled a bit more [goa](https://twitter.com/apoorv_taneja/status/1647149026796789761), blr and [ooty](https://twitter.com/apoorv_taneja/status/1651123294836518912) 🏖 🌵
-- learned a bit of digital marketing for my [planters store](https://mydukaan.io/potstation)
-- got a good hold on framer-motion 🪄
+- meh month :(
+- Attended the engagement of a close friend, and the entire old group reunited after a long time.
 
 ## March 2023
-- Start learning framer-motion. made a few quick prototypes: [link 1](https://twitter.com/apoorv_taneja/status/1640276035592699904), [link 2](https://twitter.com/apoorv_taneja/status/1640333349892902912) 🪄
-- started an [ecommerce store](https://mydukaan.io/potstation) for selling cute planters 🪴
+- Went to Kolkata for the engagement of an old school friend.
+- Experienced one of the most memorable Holis of my life and had my first taste of bhang.
+- One of my old friends, perhaps among the first few friends I made in my life, got married.
+- Bought my first gold ring for myself and gifted a pair of earrings to my mom.
+- As a boy, I had quite lengthy hair before getting it cut after about 18 months.
 
 ## February 2023
-- On a break
+- Celebrated my first my Maha Shivratri and completed all the prayer rituals.
+- Went to Bonolota for a day trip.
 
 ## January 2023
-- I did nothing :) 
-## December 2022
-- Went to THE SPITI VALLEY with college friends 🏔
-## November 2022
-- Promoted to Senior Frontend engineer at Razorpay.
+- Kicked off the new year with a blast alongside my friends in Kolkata. It was my first time celebrating New Year in the city of joy.
+- Went to school after a long time for Saraswati Puja.
 
-## October 2022
-- Built my first web3 project, a realtime gassless nft drop with a tweet platform - [Link](http://twift.club/) 🛠
-- Worked on a bot that helps you connect with a larger audience to hangout or vibe with - [Link](https://twitter.com/@2by7bot)
-## September 2022
-- Tried playing around with Mediapipe and made [virtual drums](https://plxity.github.io/Drums-with-hand-recognition/).
-- Bought my first Jordans 👟
-
-## August 2022
-- Launched one more product built on top of GPT3. [Tunes for Tale](http://tunesfortales.fun/) 🎉
-- Launched my first product on [Product Hunt](https://www.producthunt.com/posts/tunes-for-tales) 🛠
-
-## July 2022✨
-- [runner up prize](https://townhall.hashnode.com/linode-x-hashnode-hackathon-winners) (500$) in hashnode x linode hackathon 🎉
-- Attended a lot of meetups and networked with great people.
-- Completed one year at razorpay 
-
-## June 2022
-- Built an [app](http://get-referral.vercel.app/) to manage referrals easily 🛠
-- Participated in the [hashnode hackathon](https://townhall.hashnode.com/linode-x-hashnode-hackathon-winners) 🧑‍💻
-
-## May 2022
-- Took a small break and went to rishikesh
-
-## April 2022
-- Attended convocation 👨‍🎓
-## March 2022
-- Launched [Twinder](http://twinder.fun/) 💜
-
-## February 2022
-- Spoke to 2 VC's for the first time regarding Twinder.
-- Continued working on product and marketing aspect [Twinder](http://twinder.fun/)
-- Started a new Freelance work. 
-
-
-## January 2022
-- Generated extra income by doing some freelance work for the first time. 
-- Connected to twitter community leads across the globe.
-- Worked on building a dating app for twitter user - [Twinder](http://twinder.fun/)
-
-
-## December 2021
-- Appointed as Twitter community lead, India 🎉 - [link](https://twitter.com/pragdua/status/1467559757087068162)
-- Took one week vacation to Goa with college friends.
-- Being a birthday month, it is already special to me. 
-- Figured ways to make money from side gigs.
-
-
-## November 2021
-- Launched a webapp to find interesting spaces happening on twitter - [link](https://lookfora.space/)
-- Created a notebook (a webapp) to document my achievements - [link](https://www.achievementsof.life/plxity)
-- Contributed to OSS project after a long time - [Link](https://github.com/thysultan/stylis.js/pull/276)
-- Built a smol plugin for ESBuild - [Link](https://github.com/plxity/esbuild-cross-browser-css)
-
-## All time big Achievements
-
-- Started my first Full-time Job at Razorpay 🎉.
-- Took my first workshop at JSLovers on creating first babel plugin - [Link](https://www.youtube.com/watch?v=dgK__fSFZzc)
