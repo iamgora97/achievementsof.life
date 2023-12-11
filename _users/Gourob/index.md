@@ -22,7 +22,8 @@ Interests: ['Coding', 'Travelling', 'Cooking', 'Gardening', 'Photography', 'Side
 - Witnessed the scenery at Gurudambar Lake, among the world's highest lakes, situated at 16,909 feet (5,154 meters) above sea level. Also enjoyed a smoke there. 
 - Experienced snow and frost for the first time at Zero Point in Sikkim.
 - Visited Giagong cafe, recognized as one of the highest cafes in the world, run by the Indian Army.
-- We arrived home safely from Sikkim, and it makes me wonder what might have happened if things hadn't aligned. There was a potential risk of a Glacial Lake Outburst Flood (GLOF) from South Lhonak Lake in North Sikkim. Because of this, while we were in Gangtok, we chose a longer route to get to NJP station.
+- We arrived home safely from Sikkim, and it makes me wonder what might have happened if things hadn't aligned. There was a potential risk of a Glacial Lake Outburst Flood (GLOF) from 
+  South Lhonak  Lake in North Sikkim. Because of this, while we were in Gangtok, we chose a longer route to get to NJP station.
 - I stayed up till 3 o'clock in the night at the salon for a haircut and came back home around 3:30.
 - Went to Darjeeling for a little more traveling.
 - It was the first time in my 26 years that I wasn't in my hometown for Durga Puja.
